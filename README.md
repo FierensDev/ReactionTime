@@ -1,4 +1,4 @@
-## 💥Improve your reaction time🚀 | VueJS
+## 💥Improve your reaction time | VueJS🚀 
 
 Try this game to improve your reaction time !
 
